@@ -1,0 +1,129 @@
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#item a>img{
+    width: 128px;
+    height: 128px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+/*====================FORM LOGIN========================*/
+#loginbox{
+    margin-top:150px;
+}
+div.panel-body{
+    padding-top:30px;
+}
+#loginform{
+
+}
+div.input-group{
+    margin-bottom: 25px;
+}
+div.form-group{
+    margin-top:10px;
+}
+#btn-login{
+    margin-left: 180px;
+}
+
+/*===========================HEADER===========================*/
+#header p.bg-primary{
+    padding: 10px;
+    padding-left: 30px;
+    font-family: cursive;
+    font-size: 25px;
+    font-style: italic;
+}
+
+/*=========================MAIN CONTENT=======================*/
+
+
+/*====================MENU==================================*/
+#nav{
+    margin-bottom: 20px;
+}
+#box-menu {
+
+}
+#box-menu ul{
+
+}
+#box-menu ul li{
+
+}
+#box-menu ul li a{
+    font-family: cursive;
+    margin-left: 10px;
+}
+#nav span{
+    font-family: cursive;
+    font-size: 12px;
+}
+
+/*===========================USER MANAGER============================*/
+#manager{
+    width: 1000px;
+    margin: 0 auto;
+}
+#manager #title{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: blue;
+}
+#manager table{
+
+}
+#manager table th{
+    text-align: center;
+    color: brown;
+}
+#manager table tr{
+
+}
+#manager table tr td{
+
+}
+
+#manager button#btn-del{
+    margin-left: 60px;
+}
+
+/*=======================================CATEGORY MANAGER ============================*/
+#manager div#add-ct {
+    margin-bottom: 5px;
+}
+
+#form-edit{
+    display: none;
+}
+
+#form-add{
+    display: none;
+    position: relative;
+    margin-left: 300px;
+    margin-top: -500px;
+    border: 1px solid burlywood;
+    padding: 50px;
+    width: 500px;
+}
+
+
+
+/*==================================UPLOAD FORM=============================*/
+#manager #upload{
+    margin: 0 auto;
+}
+#manager #upload label{
+    text-align: left;
+}
+#manager #upload input{
+
+}

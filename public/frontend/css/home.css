@@ -1,0 +1,201 @@
+#wrap{
+    background-image: url("/public/frontend/images/bg.jpg");
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.bg-primary{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.nav-pills>li>a {
+    border-radius: 4px;
+    color: cornsilk;
+    font-size: 17px;
+}
+.nav-pills>li>a:hover {
+    color: #337ab7;
+}
+
+/*====================HEADER======================*/
+#header{
+    margin-bottom: 10px;
+}
+#header #sub{
+
+}
+#header #sub ul{
+
+}
+#header #sub ul li{
+    display: inline;
+    font-size: 12px;
+    color: cornsilk;
+}
+#header #sub ul li a{
+    padding-right: 8px;
+    font-size: 12px;
+    color: cornsilk;
+}
+
+/*================MENU BAR=====================*/
+#menu-bar{
+    margin-bottom: 10px;
+}
+#menu-bar #trang-chu{
+    padding-left: 0px;
+}
+#menu-bar #tim-kiem{
+
+}
+#menu-bar #btn-upload{
+    padding-left: 125px;
+}
+
+/*===========================CONTENT=========================*/
+#content{
+}
+
+/*==============================MENU LEFT=======================*/
+#menu-left{
+}
+#menu-left #title{
+}
+#menu-left #show-ct{
+
+}
+/*========================MAIN-CONTENT==================*/
+#main-content{
+    margin-bottom: 50px;
+}
+.document-content{
+}
+.document-content #tab{
+    margin-bottom: 15px;
+}
+
+.document-content p.doc-tit{
+    color: forestgreen;
+    font-style: italic;
+    font-size: 12px;
+}
+.document-content .content{
+}
+.document-content .content .title{
+    font-size: 25px;
+}
+.document-content .content .detail{
+    color: red;
+    font-style: italic;
+    font-size: 12px;
+}
+.document-content .content span.des{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*========================FOOTER==========================*/
+#footer{
+    text-align: center;
+    font-style: italic;
+}
+
+/*=======================LOGIN===========================*/
+
+#form-login{
+
+    margin-left: 100px;
+    margin-top: 50px;
+ }
+#form-login label{
+
+    float: left;
+    margin-right: 40px;
+}
+#form-login input{
+    width: 300px;
+    float: right;
+    margin-right: 300px;
+}
+
+#form-login button{
+    margin-left: 200px;
+    margin-bottom: 7px;
+}
+#form-login p{
+    font-style: italic;
+    font-size: 13px;
+    margin-left: 290px;
+}
+#form-login p a{
+
+}
+
+#form-login #message{
+    color: red;
+    font-size: 12px;
+    margin-left: -300px;
+}
+
+/*========================SIGN UP===================================*/
+#signup{
+    margin-left: 100px;
+    margin-top: 50px;
+ }
+#signup label{
+    text-align: left;
+}
+#signup label span{
+    color: red;
+}
+#signup input{
+    width: 400px;
+}
+#signup select{
+    width: 400px;
+}
+#signup button{
+    margin-top: 20px;
+}
+#signup #message{
+    font-size: 12px;
+    color: red;
+}
+
+/*======================UPLOAD===========================*/
+#upload {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#upload label{
+    text-align: left;
+    padding-left: 90px;
+}
+#upload label span{
+    color: red;
+}
+#upload input, textarea, select{
+    width: 400px;
+}
+#upload textarea{
+    width: 400px;
+}
+#upload select{
+    width: 400px;
+}
+#upload button{
+    margin-top: 20px;
+}
+
+/*============================FORM SEARCH============================*/
+#search{
+}
+#search input{
+    width: 600px;
+}
+#search button{
+
+}
